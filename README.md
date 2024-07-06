@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+
+I'm Travis, a software engineer with a robust background in automation and a passion for product-centric development who loves creating bespoke, high-quality software solutions. I am eager to join a talented, collaborative team where I can apply my unique perspective and skills to learn, grow, and contribute to an exciting product.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
