@@ -3,11 +3,19 @@
 I'm Travis, a self-taught software engineer with a robust background in automation and testing, as well as a passion for product-centric iOS development. I am eager to continue my journey with an exciting product where I can apply my unique perspective and skills to learn, innovate, and succeed with a talented, focused, and collaborative team.
 
 # Projects
-## SuperXO: Space Launches, Events, and News
-Coming soon.
 
-## XLaunch (retired)
-XLaunch was a native Swift app I built for browsing SpaceX rocket launches and staying up to date with the latest space-related news.
+## XLaunch (Retired, 2020-2024)
+XLaunch was a native Swift/UIKit app I built for browsing SpaceX rocket launches and staying up to date with the latest space-related news. I utilized an open-source, community-ran REST API for the data source, and contributed to the database myself for data updates and other improvements. Building the app sharpened my skills in fundamentals such as design patterns, threading, and asynchronous networking, and gave me strong experience with frameworks such as UIKit, AutoLayout, CoreData, CloudKit, AVKit, MapKit, and more.
+
+Features
+- Stream live launch webcasts in-app
+- Live countdowns for launch events
+- Browse hi-res launch image galleries
+- News articles from many popular space news sources
+- Widgets for the next upcoming launch
+- Full dark mode support
+- 7 custom app icons
+- Custom app color themes
 
 <img src="https://github.com/user-attachments/assets/3c33dbe6-d47a-43d5-b0ed-880cb4a82d11" width="200" />
 <img src="https://github.com/user-attachments/assets/0f585746-bbdc-4801-a25a-1a2e29eb1cf8" width="200" />
@@ -20,6 +28,7 @@ XLaunch was a native Swift app I built for browsing SpaceX rocket launches and s
 <img src="https://github.com/user-attachments/assets/7180d1ad-2d20-4da0-8e1e-9f82000b79c7" width="200" />
 <img src="https://github.com/user-attachments/assets/ace710d7-cb2a-4beb-8c0c-244ebccd507b" width="200" />
 <img src="https://github.com/user-attachments/assets/c854da38-ce56-420b-b0dd-bfd2a899be21" width="200" />
+
 
 <!-- :-------------------------:|:-------------------------:
 ![xlaunch-promo-1](https://github.com/user-attachments/assets/3c33dbe6-d47a-43d5-b0ed-880cb4a82d11)  |  ![xlaunch-promo-2](https://github.com/user-attachments/assets/0f585746-bbdc-4801-a25a-1a2e29eb1cf8) -->
