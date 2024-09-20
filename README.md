@@ -4,7 +4,8 @@ I'm Travis, a self-taught software engineer with a robust background in automati
 
 # Projects
 
-## XLaunch (Retired, 2020-2024)
+## XLaunch (iOS)
+### Retired, 2020-2024
 XLaunch was a native Swift/UIKit app I built for browsing SpaceX rocket launches and staying up to date with the latest space-related news. I utilized an open-source, community-ran REST API for the data source, and contributed to the database myself for data updates and other improvements. Building the app sharpened my skills in fundamentals such as design patterns, threading, and asynchronous networking, and gave me strong experience with frameworks such as UIKit, SwiftUI, AutoLayout, CoreData, CloudKit, AVKit, MapKit, UserDefaults, Keychain, and more.
 
 Features:
