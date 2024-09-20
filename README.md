@@ -13,11 +13,6 @@ Coming 2024.
 <img src="https://github.com/user-attachments/assets/4682fbd8-9d3b-445e-8c3d-a354f764e357" width="200" />
 <img src="https://github.com/user-attachments/assets/e6f98146-25bb-4229-b298-06efdc9d47b6" width="200" />
 
-<img src="https://github.com/user-attachments/assets/b80a1499-cc2d-4d98-b3ff-f669520474c7" width="200" />
-<img src="https://github.com/user-attachments/assets/ee898e11-015f-49b8-84e4-71ee1d73d6a0" width="200" />
-<img src="https://github.com/user-attachments/assets/b88c4a1b-8d28-4aa9-8c20-b5b7f56558e4" width="200" />
-<img src="https://github.com/user-attachments/assets/8b0ea197-0fff-4512-9c1b-1f8e21453ae0" width="200" />
-
 ## XLaunch (iOS) (Retired, 2020-2024)
 XLaunch was a native Swift/UIKit app I built for browsing SpaceX rocket launches and staying up to date with the latest space-related news. I utilized an open-source, community-ran REST API for the data source, and contributed to the database myself for data updates and other improvements. Building the app sharpened my skills in fundamentals such as design patterns, threading, and asynchronous networking, and gave me strong experience with frameworks such as UIKit, SwiftUI, AutoLayout, CoreData, CloudKit, AVKit, MapKit, UserDefaults, Keychain, and more.
 
