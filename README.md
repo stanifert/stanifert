@@ -1,11 +1,13 @@
 # Hi there 👋
 
-I'm Travis, a self-taught software engineer with a robust background in automation and testing, and a passion for product-centric iOS development. I am eager to continue my journey with an exciting and innovative product where I can apply my unique perspective and skills to learn, grow, and succeed with a talented, focused, and collaborative team.
+I'm Travis, a self-taught software engineer with a robust background in automation and testing, as well as a passion for product-centric iOS development. I am eager to continue my journey with an exciting product where I can apply my unique perspective and skills to learn, innovate, and succeed with a talented, focused, and collaborative team.
 
 # Projects
+## SuperXO: Space Launches, Events, and News
+Coming soon.
 
 ## XLaunch (retired)
-XLaunch was a native Swift app I built for browsing SpaceX rocket launches and staying up to date with the latest space-related news.  
+XLaunch was a native Swift app I built for browsing SpaceX rocket launches and staying up to date with the latest space-related news.
 
 <img src="https://github.com/user-attachments/assets/3c33dbe6-d47a-43d5-b0ed-880cb4a82d11" width="200" />
 <img src="https://github.com/user-attachments/assets/0f585746-bbdc-4801-a25a-1a2e29eb1cf8" width="200" />
