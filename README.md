@@ -5,7 +5,7 @@ I'm Travis, a self-taught software engineer with a robust background in automati
 # Projects
 
 ## SuperXO: Space Launches and News (iOS)
-Coming 2024. Postgres backend, push notifications via Firebase, Sign In With Apple, Live Activities, Widgets, live webcasts, and more. 
+Coming 2024. Postgres backend, free and paid tiers, push notifications via Firebase, Sign In With Apple, Live Activities, Widgets, live webcast streaming, and more. 
 
 <!-- <img src="link" width="200" /> -->
 <img src="https://github.com/user-attachments/assets/a6313963-6cf0-49a0-935e-ac9d10da06ed" width="200" />
