@@ -4,14 +4,12 @@ I'm Travis, a software engineer with a robust background in automation and a pas
 
 ![xlaunch-promo-1](https://github.com/user-attachments/assets/3c33dbe6-d47a-43d5-b0ed-880cb4a82d11)
 ![xlaunch-promo-2](https://github.com/user-attachments/assets/0f585746-bbdc-4801-a25a-1a2e29eb1cf8)
-![xlaunch-promo-3](https://github.com/user-attachments/assets/f8dffa8b-ecd5-4
+![xlaunch-promo-3](https://github.com/user-attachments/assets/f8dffa8b-ecd5-4)
 ![xlaunch-promo-4](https://github.com/user-attachments/assets/d6d36b64-37f5-4e94-badb-2c9ec9bba7be)
 ![xlaunch-promo-5](https://github.com/user-attachments/assets/000f701c-9281-4861-bf30-84797912710e)
-![xlaunch-promo-6](https://github.com/user-attachments/assets/0d25ff31-8d23-4
+![xlaunch-promo-6](https://github.com/user-attachments/assets/0d25ff31-8d23-4)
 ![xlaunch-promo-7](https://github.com/user-attachments/assets/d82e22a1-02b5-4198-a5d0-81c2125f7889)
-42c-8941-f86d6c82a38f)
 ![xlaunch-promo-8](https://github.com/user-attachments/assets/7180d1ad-2d20-4da0-8e1e-9f82000b79c7)
-7dd-a268-597b24a0e9b6)
 ![xlaunch-promo-9](https://github.com/user-attachments/assets/ace710d7-cb2a-4beb-8c0c-244ebccd507b)
 ![xlaunch-promo-10](https://github.com/user-attachments/assets/c854da38-ce56-420b-b0dd-bfd2a899be21)
 
