@@ -2,6 +2,9 @@
 
 I'm Travis, a software engineer with a robust background in automation and a passion for product-centric development who loves creating bespoke, high-quality software solutions. I am eager to join a talented, collaborative team where I can apply my unique perspective and skills to learn, grow, and contribute to an exciting product.
 
+:-------------------------:|:-------------------------:
+![xlaunch-promo-1](https://github.com/user-attachments/assets/3c33dbe6-d47a-43d5-b0ed-880cb4a82d11)  |  ![xlaunch-promo-2](https://github.com/user-attachments/assets/0f585746-bbdc-4801-a25a-1a2e29eb1cf8)
+
 ![xlaunch-promo-1](https://github.com/user-attachments/assets/3c33dbe6-d47a-43d5-b0ed-880cb4a82d11)
 ![xlaunch-promo-2](https://github.com/user-attachments/assets/0f585746-bbdc-4801-a25a-1a2e29eb1cf8)
 ![xlaunch-promo-3](https://github.com/user-attachments/assets/bd6d01c9-5e5c-4145-9281-c23f2c26ddfe)
